@@ -36,8 +36,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="SvnConfiguration">
@@ -101,12 +101,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Settings" />
@@ -147,9 +148,10 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600859764654" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600859882955">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state x="242" y="2" width="1022" height="737" key="SettingsEditor" timestamp="1600886883616">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="242" y="2" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600886883616" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600860174660">
       <screen x="0" y="29" width="1366" height="739" />
