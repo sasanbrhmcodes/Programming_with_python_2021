@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Submissions/Sasan_bahrami/my lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Submissions/Sasan_bahrami/robotic_arm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folderasas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,12 +141,44 @@
       <option name="project" value="LOCAL" />
       <updated>1600864122861</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Submissions organised as an individual folderasas">
+      <created>1600885181998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600885181998</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/SASAN/PycharmProjects/new 23/Programming_with_python_2021/Submissions/Sasan_bahrami" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -159,6 +187,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="134" key="#my_lists/0.0.1920.1040@0.0.1920.1040" timestamp="1600869185324" />
-    <state x="671" y="86" key="CommitChangelistDialog2" timestamp="1600885191449">
+    <state x="671" y="86" key="CommitChangelistDialog2" timestamp="1600885402550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="671" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600885191449" />
+    <state x="671" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600885402550" />
     <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -210,10 +243,10 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600859764654" />
-    <state x="242" y="2" width="1022" height="737" key="SettingsEditor" timestamp="1600885167930">
+    <state x="242" y="2" width="1022" height="737" key="SettingsEditor" timestamp="1600885392129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="242" y="2" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600885167930" />
+    <state x="242" y="2" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600885392129" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600860174660">
       <screen x="0" y="29" width="1366" height="739" />
